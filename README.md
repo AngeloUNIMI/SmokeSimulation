@@ -14,8 +14,7 @@ Project page:
 
 https://homes.di.unimi.it/genovese/wild/wildfire.htm
 
-Outline:
-
+Outline:<br/>
 ![Outline](https://homes.di.unimi.it/genovese/wild/imgs/Picture2small_2.png "Outline")
 
 Citation:
