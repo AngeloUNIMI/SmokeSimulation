@@ -4,7 +4,7 @@ Matlab source code for the paper:
 
 	A. Genovese, R. Donida Labati, V. Piuri, and F. Scotti, 
     "Virtual environment for synthetic smoke clouds generation", 
-    in IEEE International Conference on Virtual Environments, Human-Computer Interfaces and Measure ment Systems (VECIMS 2011), 
+    in IEEE International Conference on Virtual Environments, Human-Computer Interfaces and Measurement Systems (VECIMS 2011), 
     Ottawa, Canada, September, 2011, pp. 1-6. ISSN: 1944-9429. 
     [DOI: 10.1109/VECIMS.2011.6053841]
     https://ieeexplore.ieee.org/document/6053841
@@ -21,7 +21,7 @@ Citation:
 
     @INPROCEEDINGS{6053841,
         author={A. {Genovese} and R. {Donida Labati} and V. {Piuri} and F. {Scotti}},
-        booktitle={2011 IEEE International Conference on Virtual Environments, Human-Computer Interfaces and Measurement Systems Proceedings},
+        booktitle={2011 IEEE International Conference on Virtual Environments, Human-Computer Interfaces and Measurement Systems},
         title={Virtual environment for synthetic smoke clouds generation},
         year={2011},
         pages={1-6},
