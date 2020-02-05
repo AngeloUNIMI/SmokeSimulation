@@ -1,6 +1,6 @@
 # Synthetic Smoke Generation
 
-Matlab source code for the paper:
+Matlab source code for the papers:
 
 	A. Genovese, R. Donida Labati, V. Piuri, and F. Scotti, 
     "Virtual environment for synthetic smoke clouds generation", 
@@ -8,6 +8,12 @@ Matlab source code for the paper:
     Ottawa, Canada, September, 2011, pp. 1-6. ISSN: 1944-9429. 
     [DOI: 10.1109/VECIMS.2011.6053841]
     https://ieeexplore.ieee.org/document/6053841
+    
+    R. Donida Labati, A. Genovese, V. Piuri, and F. Scotti, 
+    "Wildfire smoke detection using computational intelligence techniques enhanced with synthetic smoke plume generation", 
+    in IEEE Transactions on Systems, Man and Cybernetics: Systems, vol. 43, no. 4, July, 2013, pp. 1003-1012. ISSN: 2168-2216. 
+    [DOI: 10.1109/TSMCA.2012.2224335]
+    https://ieeexplore.ieee.org/document/6425498
 
 Project page:
 (with example videos)
@@ -25,10 +31,20 @@ Citation:
         title={Virtual environment for synthetic smoke clouds generation},
         year={2011},
         pages={1-6},
-        keywords={image sequences;object detection;smoke;virtual reality;virtual environment;synthetic smoke clouds generation;synthetic wildfire smoke frame sequences;image-based wildfire smoke detection systems;cellular model;adverse environmental conditions;virtual smoke simulation;Mathematical model;Equations;Force;Computational modeling;Lattices;Navier-Stokes equations;Atmospheric modeling;Computer vision;smoke detection;lattice-boltzmann;simulation;virtual environment},
         doi={10.1109/VECIMS.2011.6053841},
         ISSN={1944-9429},
         month={Sep.},}
+	
+    @Article {tsmca12,
+	    author = {R. {Donida Labati} and A. Genovese and V. Piuri and F. Scotti},
+	    title = {Wildfire smoke detection using computational intelligence techniques enhanced with synthetic smoke plume generation},
+	    journal = {IEEE Transactions on Systems, Man and Cybernetics: Systems},
+	    volume = {43},
+	    number = {4},
+	    pages = {1003-1012},
+	    month = {July},
+	    year = {2013},
+	    note = {2168-2216},}
 
 Main files:
 
